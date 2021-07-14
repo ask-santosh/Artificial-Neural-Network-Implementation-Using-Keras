@@ -15,6 +15,6 @@ Training and Test validation will be 80%-20%
 ### Training Result
 
 <p align="center">
-  <img src="https://github.com/ask-santosh/Individual-Vehicle-Instance-Detection-and-Calculation-Using-YOLOV3/blob/main/Screenshot%20from%202021-07-01%2002-07-38.png">
+  <img src="https://github.com/ask-santosh/Artificial-Neural-Network-Implementation-Using-Keras/blob/main/Screenshot%202021-07-14%20at%2010.15.42%20PM.png">
 </p>
 
