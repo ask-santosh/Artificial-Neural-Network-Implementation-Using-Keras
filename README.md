@@ -18,3 +18,5 @@ Training and Test validation will be 80%-20%
   <img src="https://github.com/ask-santosh/Artificial-Neural-Network-Implementation-Using-Keras/blob/main/Screenshot%202021-07-14%20at%2010.15.42%20PM.png">
 </p>
 
+### Result 
+Out of 500 test data, 489 are correct and 11 are wrong prediction .Hence provide an accuracy of 97.80% .
